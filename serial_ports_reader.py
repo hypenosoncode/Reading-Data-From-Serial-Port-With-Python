@@ -30,4 +30,3 @@ if seri_haberlesme.is_open:
             print('Veri okunamadi!')
 else:
     print('Port bulunamadi!')
-//SELCUK
