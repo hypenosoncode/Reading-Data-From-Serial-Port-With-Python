@@ -15,3 +15,4 @@ Not: Gecikmeden kaynaklı mesajlar iç içe okunuyor. STM32 geliştirme kartın�
 
 # STM32 Geliştirme Kartı USART Ayarı:
 ![stm32ioc](https://user-images.githubusercontent.com/74931027/158085433-ad24a111-05ea-493a-8418-2bd5a8f6983d.png)
+s
