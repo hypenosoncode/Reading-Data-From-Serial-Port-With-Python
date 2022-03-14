@@ -8,4 +8,4 @@ Bu projede STM32 geliştirme kartından USART portundan gelen mesaj verisini Pyt
 # STM32 Geliştirme Kartı İle Gönderilen Verinin Python Kodundan Okunan Mesaj
 ![git2](https://user-images.githubusercontent.com/74931027/158084987-4259b4ed-3810-4154-a085-5c0bc2991474.png)
 
-Not: Gecikmeden kaynaklı mesajlar iç içe okunuyor. STM32 geliştirme kartının yolladığı veri kodunda gecikme var ve aynı şekilde Python kodunda ufak bi düzenleme ile bu sorunun üstesinden gelinebilir.
+Not: Gecikmeden kaynaklı mesajlar iç içe okunuyor. STM32 geliştirme kartının yolladığı veri kodunda gecikme var ve aynı şekilde Python kodunda da bir gecikme var. Ufak bi düzenleme ile bu sorunun üstesinden gelinebilir.
