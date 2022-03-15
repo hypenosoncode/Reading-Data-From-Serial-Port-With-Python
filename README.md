@@ -4,7 +4,7 @@ Bu projede STM32-F103C6TX2 mikrodenetleyicisinin USART portundan gelen mesaj ver
 
 Gerekli Kütüphaneler:
 
--> import serial -- Komut satırına pip install pyserial yazarak bu kütüphaneyi kolayca kurabilirsiniz.
+-> import serial -- Komut satırına **pip install pyserial** yazarak bu kütüphaneyi kolayca kurabilirsiniz.
 
 -> import time
 
