@@ -3,6 +3,7 @@
 Bu projede STM32-F103C6TX2 mikrodenetleyicisinin USART portundan gelen mesaj verisinin Python aracılığı ile okunmasını sağlayan kod yazılmıştır. Bu mantığı kullanarak STM32 'nin USART portundan gelen veriyi okuyabilir ve bu gelen veriyi işleyebilirsiniz.
 
 Gerekli Kütüphaneler:
+
 -> import serial -- Komut satırına pip install pyserial yazarak bu kütüphaneyi kolayca kurabilirsiniz.
 
 -> import time
