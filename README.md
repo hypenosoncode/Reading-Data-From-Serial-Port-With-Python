@@ -13,8 +13,8 @@ Gerekli Kütüphaneler:
 
 -> import time
 
-# STM32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Seri Monitörden Okunan Mesajı:
-![git1](https://user-images.githubusercontent.com/74931027/158084905-bc255bd5-8358-4322-91bd-35d51508f364.png)
+M32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Seri Monitörden Okunan Mesajı:
+# ST![putyyyy](https://user-images.githubusercontent.com/74931027/158284236-49620d0a-6119-4714-96a4-863be1c54627.gif)
 
 # STM32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Python Kodundan Okunan Mesajı:
 ![gitgit](https://user-images.githubusercontent.com/74931027/158281892-6ac1d0a4-a422-4700-af93-81bcd8094232.png)
