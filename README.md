@@ -1,6 +1,6 @@
 # Reading-Data-From-Serial-Port-With-Python
 
-Bu projede STM32 geliştirme kartından USART portundan gelen mesaj verisini Python ile okunmasını sağlayan kod yazılmıştır.
+Bu projede STM32 geliştirme kartından USART portundan gelen mesaj verisinin Python ile okunmasını sağlayan kod yazılmıştır.
 
 # STM32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Seri Monitörden Okunan Mesajı:
 ![git1](https://user-images.githubusercontent.com/74931027/158084905-bc255bd5-8358-4322-91bd-35d51508f364.png)
