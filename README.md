@@ -6,6 +6,8 @@ Gerekli Kütüphaneler:
 
 -> import serial -- Komut satırına **pip install pyserial** yazarak bu kütüphaneyi kolayca kurabilirsiniz.
 
+-> import serial.tools.list_ports
+
 -> import time
 
 # STM32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Seri Monitörden Okunan Mesajı:
