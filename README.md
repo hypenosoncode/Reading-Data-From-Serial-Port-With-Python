@@ -1,6 +1,6 @@
 # Reading-Data-From-Serial-Port-With-Python
 
-Bu projede STM32-F103C6TX2 mikrodenetleyicisinin USART portundan gelen mesaj verisinin Python aracılığı ile okunmasını sağlayan kod yazılmıştır. Bu mantığı kullanarak STM32 'nin USART portundan gelen veriyi okuyabilir ve bu gelen veriyi işleyebilirsiniz. Kodu çalıştırdığınızda açık olan Port 'ları görüntüleyebilir, Portu seçebilir ve haberleşme hızını(Boud Rate) girebilirsiniz. İlgili değerler girildikten sonra kod gelen veriyi okumayaya başlayacaktır.
+Bu projede STM32-F103C6TX2 mikrodenetleyicisinin USART portundan gelen mesaj verisinin Python aracılığı ile okunmasını sağlayan kod yazılmıştır. Bu mantığı kullanarak STM32 'nin USART portundan gelen veriyi okuyabilir ve bu gelen veriyi işleyebilirsiniz. Kodu çalıştırdığınızda açık olan Port 'ları görüntüleyebilir, Portu seçebilir ve haberleşme hızını(Boud Rate) girebilirsiniz. İlgili değerler girildikten sonra kod gelen veriyi okumaya başlayacaktır.
 
 ![gif](https://user-images.githubusercontent.com/74931027/158283795-3b6d448a-f70c-4dc8-9b43-796dfad063cb.gif)
 
