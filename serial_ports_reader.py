@@ -2,6 +2,7 @@ import serial
 import serial.tools.list_ports
 import time
 
+print("Su Anda Acik Olan Portlar:")
 portlar = serial.tools.list_ports.comports() # Sistemdeki açık portları görüntüler
 
 port_listesi = []
@@ -10,8 +11,8 @@ for port in portlar:
     port_listesi.append(str(port))
     print(str(port))
 
-kullanici_girdisi_port = input("Port seciniz: COM")
-kullanici_girdisi_seri_iletisim_hizi = input("Boud Rate 'i girin: ")
+kullanici_girdisi_port = input("Lutfen Bir Port Seciniz: COM")
+kullanici_girdisi_seri_iletisim_hizi = input("Boud Rate 'i Giriniz: ")
 seri_iletisim_hizi = kullanici_girdisi_seri_iletisim_hizi
 okunacak_port = str('COM' + kullanici_girdisi_port)
 
