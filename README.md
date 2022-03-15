@@ -26,3 +26,5 @@ Not: Gecikmeden kaynaklı TEST mesajı ardı ardına yazılıyor. STM32 gelişti
 
 # STM32-F103C6TX Mikrodenetleyicisinin USART Ayarı: (STM32CubeIDE yazılımı kullanılarak yazılmıştır.)
 ![stm32ioc](https://user-images.githubusercontent.com/74931027/158085433-ad24a111-05ea-493a-8418-2bd5a8f6983d.png)
+
+# Faydalı olması dileğimle... İyi çalışmalar.
