@@ -5,13 +5,13 @@ Bu projede STM32-F103C6TX2 mikrodenetleyicisinin USART portundan gelen mesaj ver
 ![prg hk gif](https://user-images.githubusercontent.com/74931027/158285012-bb844194-e7ff-400f-a767-5ee9ab53ae1f.gif)
 
 Gerekli Kütüphaneler:
-
+```bash
 -> import serial -- Komut satırına **pip install pyserial** yazarak bu kütüphaneyi kolayca kurabilirsiniz.
 
 -> import serial.tools.list_ports
 
 -> import time
-
+```
 # STM32-F103C6TX Mikrodenetleyicisi İle Gönderilen Verinin Seri Monitörden Okunan Mesajı:
 ![putyyyy](https://user-images.githubusercontent.com/74931027/158284236-49620d0a-6119-4714-96a4-863be1c54627.gif)
 
